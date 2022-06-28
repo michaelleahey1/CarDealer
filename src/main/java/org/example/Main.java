@@ -32,7 +32,7 @@ public class Main {
         }
         throw new NoSuchFieldException("Color not red/blue");
     }
-    public static void setAge( int age) throws IllegalArgumentException {
+    public static void setAge(int age) throws IllegalArgumentException {
         System.out.println("Age is : " + age);
         if (age >= 0 && age <= 10) {
             return;
