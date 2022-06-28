@@ -1,0 +1,14 @@
+Went over several exceptions most were runtime exceptions. Important to note exceptions are not always errors.always.
+I like the fact we are going over what can go wong, in my opinion that was missing. We intertwined old Java we
+already went over in conjunction with new information.
+For example, this example went over OOP again. By adding extends uses inheritance, which is one of the 5 pillars we learned
+The 5 pillars are subjective some say 3 or 4 but we learned there are 5 pillars
+1) Composition
+2) Abstraction
+3) Inheritance
+4) Polymorphism
+5) Encapsulation
+We also used encapsulation, because the objects in CarDealer and Main classes use the encapsulation catch phrases
+(public) and (private).
+You can also say we used polymorphism was used because although not always necessary inheritance, which works hand
+in hand with polymorphism.
